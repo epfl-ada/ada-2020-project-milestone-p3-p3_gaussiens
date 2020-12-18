@@ -31,7 +31,7 @@ Slashdot dataset <br>
     
 # 3. Methods
 
-Graph analysis : Find clusters and their "centers", using centrality, degree of connection, etc.
+Graph analysis : Find clusters and their "centers", using centrality, degree of connection, etc. <br>
 Try to predict whether the whole cluster votes the same, or don't vote at all.
     
 # 4. Proposed Timeline
