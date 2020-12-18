@@ -15,8 +15,8 @@ In this creative extension, we propose to analyse the network in order to find c
     
 ## 1. Research Questions
 
-Do central nodes have influence on their clusters for Wikipedia election votes?
-As an extension, what social theory do the clusters follow between them for edge formation?
+Do central nodes have influence on their clusters for Wikipedia election votes? <br>
+As an extension, what social theory do the clusters follow between them for edge formation? <br>
 Some individual nodes have many edges (600+), what (social theory) behaviour do these individuals follow?
     
 ## 2. Proposed Dataset
@@ -25,9 +25,9 @@ Wikipedia election dataset
     
 Update:
 
-Wikipedia
-Epiions dataset
-Slashdot dataset
+Wikipedia <br>
+Epiions dataset <br>
+Slashdot dataset <br>
     
 # 3. Methods
 
@@ -37,14 +37,16 @@ Try to predict whether the whole cluster votes the same, or don't vote at all.
 # 4. Proposed Timeline
 
 Code : Done by Sunday 6th December
+
 Analysis : Done by 11th December
+
 Video + Website/Report : Done by 18th December
     
 # 5. Organization within the team
 
-Seb code + video
-Diego code + website
-Richie code + analysis
+Seb code + video <br>
+Diego code + website <br>
+Richie code + analysis <br>
 
 Update: Contrary to what we tought, we spent most of our time looking for a coherent analysis around our datasets. Our first idea was to analysis behavior and influence of centralized nodes in the wikie elections and check how their vote would influence results of election. However, to be able to characterize the influence of such node, we would have needed the real relationship between nodes, here the voting behavior was a significant value to infer on relation between nodes (users). Thus, the main part of our project was to find a coherent analysis and to really understand the meaning of the different values used to characterize influence, centrality and behavior between nodes. This research part was perfromed equally by all group members and finally agreed to change the dataste and look into the analysis of homophily in epinions and slashdot datasets. The coding part also. Then we divided the work to write the Datastory, explain the analysis and compile a notebook with our different researchs. 
 
